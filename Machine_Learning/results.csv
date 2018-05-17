@@ -1,0 +1,26 @@
+Filename,Probabilities, Actual Class
+Wiener_b5_fl72_1946_Part56._ml_ready.txt,[['Psychology', 0.9587453318342306], ['Personal', 0.041252698019892176], ['Math', 1.9698676380596994e-06], ['Machines', 2.7823913233162276e-10]],Psychology
+Wiener_b5_fl72_1946_Part4._ml_ready.txt,[['Psychology', 0.9700342328432519], ['Personal', 0.029765901321368738], ['Math', 0.00019970501031058778], ['Machines', 1.6082506876754777e-07]],Psychology
+Wiener_b5_fl72_1946_Part61._ml_ready.txt,[['Psychology', 0.8516487293882564], ['Personal', 0.12538957956947716], ['Math', 0.022898819658429128], ['Machines', 6.287138383749762e-05]],Psychology
+Wiener_04_Rosenbluth_1945_Part1._ml_ready.txt,[['Psychology', 0.7850654969092291], ['Personal', 0.20176315403266532], ['Math', 0.0131555678486481], ['Machines', 1.5781209457472478e-05]],Psychology
+1106834_3_AutopoiesisOrganizationLivingSystems_1974._ml_ready.txt,[['Psychology', 0.722990596522107], ['Personal', 0.27700937659259617], ['Math', 2.6735512522425565e-08], ['Machines', 1.4978414431478153e-10]],Psychology
+1106026_2_Ashby3_1960_73_Part203._ml_ready.txt,[['Personal', 0.9999999818253048], ['Math', 1.0446965795134117e-08], ['Psychology', 7.724585048055067e-09], ['Machines', 3.144318223913725e-12]],Personal
+Wiener_b5_fl72_1946_Part64._ml_ready.txt,[['Personal', 0.9323589639896782], ['Math', 0.04822019082050867], ['Psychology', 0.01881428073843404], ['Machines', 0.0006065644513791049]],Personal
+Wiener_b5_fl72_1946_Part55._ml_ready.txt,[['Personal', 0.9984377549027348], ['Math', 0.0014636007014616989], ['Psychology', 7.01346813183237e-05], ['Machines', 2.850971448521705e-05]],Personal
+Wiener_b5_fl72_1946_Part37._ml_ready.txt,[['Personal', 0.5780675919174931], ['Math', 0.20410266603384494], ['Psychology', 0.1556561806120989], ['Machines', 0.06217356143656305]],Personal
+Wiener_b5_fl72_1946_Part60._ml_ready.txt,[['Personal', 0.9999811822979038], ['Math', 1.879692406404266e-05], ['Psychology', 1.859317391367043e-08], ['Machines', 2.1848583370904214e-09]],Personal
+Wiener_b5_fl72_1946_Part69._ml_ready.txt,[['Math', 0.8254592727036667], ['Personal', 0.1736602339399056], ['Psychology', 0.0008144795041892058], ['Machines', 6.601385223868339e-05]],Math
+1106834_2_SetTheoryofMechanismHomestasis_1962._ml_ready.txt,[['Personal', 0.9988732905228959], ['Math', 0.0011267094769247892], ['Psychology', 1.7942021714499272e-13], ['Machines', 8.255648304237045e-23]],Math
+Wiener_b5_fl72_1946_Part2._ml_ready.txt,[['Math', 0.7914149015133591], ['Personal', 0.17787781063485888], ['Psychology', 0.02127917244559589], ['Machines', 0.009428115406186082]],Math
+Deming_04_Wiener_1945_Part1._ml_ready.txt,[['Math', 0.5991119981803253], ['Personal', 0.3845827482099028], ['Psychology', 0.011798348105068324], ['Machines', 0.004506905504703641]],Math
+Wiener_b5_fl72_1946_Part45._ml_ready.txt,[['Math', 0.5964980474574643], ['Personal', 0.3365253440824312], ['Psychology', 0.05230687346726003], ['Machines', 0.014669734992844533]],Math
+Wiener_b5_fl72_1946_Part3._ml_ready.txt,[['Math', 0.8298413124649079], ['Personal', 0.15103838304238856], ['Psychology', 0.018527057753957042], ['Machines', 0.0005932467387465668]],Math
+Wiener_b5_fl72_1946_Part17._ml_ready.txt,[['Math', 0.5680520092353711], ['Personal', 0.39721091526026037], ['Psychology', 0.01781908504972271], ['Machines', 0.01691799045464573]],Math
+Wiener_b5_fl72_1946_Part53._ml_ready.txt,[['Math', 0.5602097444989219], ['Personal', 0.42136290402712967], ['Machines', 0.010344957918224788], ['Psychology', 0.008082393555723717]],Math
+Wiener_b5_fl72_1946_Part11._ml_ready.txt,[['Math', 0.6710870529516725], ['Personal', 0.27580894174491166], ['Machines', 0.038374326310370355], ['Psychology', 0.014729678993045362]],Math
+Wiener_b5_fl72_1946_Part62._ml_ready.txt,[['Personal', 0.5852952566539427], ['Math', 0.40703300019866534], ['Psychology', 0.004485407231342], ['Machines', 0.003186335916050152]],Machines
+Wiener_b5_fl72_1946_Part54._ml_ready.txt,[['Personal', 0.9999723813828426], ['Math', 2.7229894469480512e-05], ['Psychology', 3.724865628386024e-07], ['Machines', 1.6236124956049013e-08]],Machines
+1106834_2_RealizationOfBiologicalComputers3_1958._ml_ready.txt,[['Personal', 0.9999927284273644], ['Machines', 4.267388071924344e-06], ['Math', 2.066563014470211e-06], ['Psychology', 9.376215491246566e-07]],Machines
+Wiener_b5_fl72_1946_Part58._ml_ready.txt,[['Math', 0.5741893619154594], ['Personal', 0.3965074362152437], ['Machines', 0.021400769746518073], ['Psychology', 0.007902432122778927]],Machines
+1106834_3_OnConstructingReality_1973._ml_ready.txt,[['Personal', 0.9999999962738968], ['Psychology', 3.7160556928466206e-09], ['Math', 1.0045315142453961e-11], ['Machines', 2.1098880897624925e-15]],Machines
+1106834_2_PresentTheorySwitching_1960._ml_ready.txt,[['Personal', 0.9999999993615543], ['Math', 6.318587726606974e-10], ['Psychology', 6.4766818037766115e-12], ['Machines', 1.1032123352688276e-13]],Machines
