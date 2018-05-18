@@ -1,6 +1,10 @@
 # The Cybernetics Thought Collective
 
 The University of Illinois Archives has been awarded a grant from the National Endowment for the Humanities (NEH) to develop a prototype web-portal and analysis-engine to provide access to archival material related to the development of the iconic, multi-disciplinary field of cybernetics. The grant is part of the NEH’s Humanities Collections and Reference Resources Foundations program. The project, entitled “The Cybernetics Thought Collective: A History of Science and Technology Portal Project,” is a collaborative effort among several academic units at the University of Illinois (U of I) and three other institutions that also maintain archival records vital to the exploration of cybernetic history: the British Library, the American Philosophical Society, and the Massachusetts Institute of Technology. In addition to supporting the development of a web-portal and analysis-engine, the award will enable the multi-institutional team to begin digitizing some of the archival records related to the pioneering work of U of I Electrical Engineering Professor Heinz von Foerster and his fellow cyberneticians W. Ross Ashby (also a former U of I Electrical Engineering faculty member), Warren S. McCulloch, and Norbert Wiener.
+## Author/Programmer 
+
+* **Anirudh Chandrashekhar** (https://github.com/achndrs4)
+
 
 ## 1.Getting Started
 
@@ -112,10 +116,6 @@ On the other hand, if you want to see how the files you have would be classified
 ## Deployment
 
 Run individually. May eventually add SpringBoot to automate file building/running
-
-## Author
-
-* **Anirudh Chandrashekhar** (https://github.com/achndrs4)
 
 
 
