@@ -20,10 +20,7 @@ You will need the following tools (below) to execute this code. For best results
 ```
 Git
 Python 3
-Pip
-Wolfram Desktop
-Cmake
-gcc
+Pip 3
 ```
 
 ### 3.Installing Git
